@@ -1,4 +1,5 @@
 # Reverse_Bleach
-My first 2D parkour game
+中文游戏名：逆转尸魂界
 
-Coding is coming soon！
+
+
